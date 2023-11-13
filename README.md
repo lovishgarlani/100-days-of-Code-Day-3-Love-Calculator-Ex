@@ -26,5 +26,3 @@ E occurs 2 times
 Total = 3
 Love Score = 53
 Print: "Your score is 53."
-
-These functions will help you:
